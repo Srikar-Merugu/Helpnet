@@ -1,0 +1,32 @@
+# HelpNet - Android Emergency Assistance App 🚨
+
+HelpNet is a powerful Android emergency assistance app built to help users act quickly in urgent situations. With features like SOS alerts, emergency contact calling, and custom alert types (Medical, Fire, Police), it’s designed to be your digital safety companion.
+
+---
+
+## 📱 Features
+
+- 🔴 **SOS Alert** — Sends real-time location + emergency message to saved contacts.
+- 📞 **Emergency Contacts** — One-tap call access to family/friends.
+- 🎙️ **Voice Activation** — Trigger SOS by saying “Help me”.
+- 🔊 **Volume Button Activation** — Long-press volume key to silently trigger SOS.
+- 🚨 **Alert Types** — Choose Medical, Police, Fire, or Custom alert.
+- 🧾 **Emergency Info Card** — Store medical info & personal data for quick access.
+- 📲 **User-Friendly UI** — Smooth and modern material design.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language**: Kotlin
+- **UI**: XML (Material Design)
+- **Backend (optional)**: Firebase (for location / message logs)
+- **Others**: SharedPreferences, LocationManager, Intents, Runtime Permissions
+
+---
+
+## 🧪 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/HelpNet-Android-developement.git
